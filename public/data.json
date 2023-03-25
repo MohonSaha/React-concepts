@@ -1,0 +1,51 @@
+[
+    {
+      "id": "641e8a34f6a3a623de67f1bc",
+      "age": 30,
+      "name": "Marquez Crane",
+      "gender": "male",
+      "email": "marquezcrane@zyple.com"
+    },
+    {
+      "id": "641e8a34906cb7456c83518f",
+      "age": 38,
+      "name": "Deann Stark",
+      "gender": "female",
+      "email": "deannstark@zyple.com"
+    },
+    {
+      "id": "641e8a34c5d929c3bd7c64a5",
+      "age": 40,
+      "name": "Gretchen Garrison",
+      "gender": "female",
+      "email": "gretchengarrison@zyple.com"
+    },
+    {
+      "id": "641e8a341d9dc57d919d8e26",
+      "age": 32,
+      "name": "Moss Lang",
+      "gender": "male",
+      "email": "mosslang@zyple.com"
+    },
+    {
+      "id": "641e8a342f26fcd613ea5e36",
+      "age": 32,
+      "name": "Dawson Gibson",
+      "gender": "male",
+      "email": "dawsongibson@zyple.com"
+    },
+    {
+      "id": "641e8a34a381e84d87a4aa5f",
+      "age": 28,
+      "name": "Wolfe Reyes",
+      "gender": "male",
+      "email": "wolfereyes@zyple.com"
+    },
+    {
+      "id": "641e8a344750875a80b6f2f2",
+      "age": 33,
+      "name": "Becker Solis",
+      "gender": "male",
+      "email": "beckersolis@zyple.com"
+    }
+  ]
