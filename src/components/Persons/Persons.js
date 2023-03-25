@@ -1,4 +1,5 @@
 import React from 'react';
+import './Persons.css'
 import { useEffect } from 'react';
 import { useState } from 'react';
 import Person from '../Person/Person';
@@ -13,11 +14,13 @@ const Persons = () => {
     return (
         <div>
             <h1>Weccome to my persons deatils site</h1>
+            <div className='products'>
             {
                 persons.map(person => <Person 
                     person = {person}
                     key = {person.id}></Person>)
             }
+            </div>
         </div>
     );
 };
